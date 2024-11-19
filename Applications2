@@ -1,0 +1,6 @@
+The Kaplan-Meier estimator can be applied across various fields for numerous purposes. In the medical field, it is often used to measure the fraction of patients surviving for a certain period after treatment, helping assess the effectiveness of a particular treatment. Beyond medicine, Kaplan-Meier can be utilized to measure the duration people remain unemployed after losing a job, or the time until failure of machine parts.
+In insurance, it is valuable for calculating risks and premiums based on life expectancy. Additionally, in sales, it can help evaluate how long customers stay subscribed to a service. Thus, the Kaplan-Meier estimator is a versatile tool that can be applied in almost any field to assess risks over time or the effectiveness of a treatment or product.1
+
+Sources:
+Kaplan–Meier estimator - Wikipedia
+Kaplan-Meier Survival Curves- Introduction, Applications
